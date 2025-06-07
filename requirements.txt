@@ -1,0 +1,24 @@
+# Librerías principales para ML/Datos
+scikit-learn==1.4.0      # Algoritmos de ML (KNN)
+pandas==2.0.3            # Manipulación de datos
+numpy==1.24.3            # Operaciones numéricas
+matplotlib==3.7.2        # Visualización básica
+seaborn==0.12.2          # Visualización estadística
+
+# Interfaz web
+streamlit==1.29.0        # Para crear la app web (¡Versión fija!)
+streamlit-lottie==0.0.4  # Animaciones en Streamlit
+
+# Procesamiento de imágenes
+Pillow==10.1.0           # PIL (manejo de imágenes)
+
+# Serialización
+pickle-mixin==1.0.2      # Alternativa moderna a pickle
+# (Pickle viene con Python, no necesita instalación)
+
+# Formatos de datos
+jsonlib-python3==2.0.0   # Para operaciones con JSON
+# (JSON viene con Python, pero esta lib añade funcionalidades)
+
+# Entorno de desarrollo
+jupyter==1.0.0           # Notebooks interactivos

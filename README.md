@@ -24,3 +24,57 @@ Análisis Instantáneo: Nuestro modelo KNN procesa los datos en tiempo real
 Retroalimentación Visual: Indicador de riesgo codificado por color con elementos animados
 
 Siguientes Pasos: Recomendaciones claras según el nivel de riesgo
+
+🛠️ Implementación Técnica
+
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin: 20px 0;"> <img src="./assets/ITécnica.png" alt="Interfaz principal"
+
+Stack Principal:
+
+scikit-learn 1.4.0 (Clasificador KNN)
+
+streamlit 1.29.0 (Interfaz web)
+
+Pillow 10.1.0 (Procesamiento de imágenes)
+
+streamlit-lottie 0.0.4 (Animaciones)
+
+🚀 Guía de Despliegue
+Instalación Local:
+
+bash
+git clone https://github.com/RosanaNicklas/attack
+cd Heartattack
+pip install -r requirements.txt
+streamlit run mein_app.py
+Despliegue en la Nube:
+Próximamente
+
+📊 Métricas del Modelo
+Métrica	Puntuación
+Precisión	89.5%
+Exactitud	91.2%
+Sensibilidad	87.8%
+AUC-ROC	0.93
+*Entrenado con el dataset UCI Heart Disease (n=303)*
+
+📜 Consideraciones Éticas
+❗ Limitaciones Importantes:
+
+No está aprobado por la FDA
+
+No debe guiar decisiones de tratamiento
+
+Sesgo poblacional en los datos de entrenamiento
+
+Requiere validación clínica para uso individual
+
+📬 Contacto
+Rosana Longares
+rosana8longares@gmail.com
+
+Soporte Técnico:
+GitHub Issues
+
+© 2025 CardioSafe AI | Esta herramienta es solo con fines educativos

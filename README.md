@@ -1,6 +1,6 @@
 ❤️ CardioSafe: Predicción del Riesgo de Infarto con IA
 📱 Capturas de Pantalla
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin: 20px 0;"> <img src="./assets/heart2.png" alt="Interfaz principal" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"> <img src="./assets/heart1.png" alt="Visualización de riesgo" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"> <img src="./assets/heart3.png" alt="Recomendaciones" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"> <img src="./assets/heartt4.png" alt="Vista móvil" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"> </div>
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin: 20px 0;"> <img src="./assets/heart2.png" alt="Interfaz principal" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"> <img src="./assets/heart1.png" alt="Visualización de riesgo" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"> <img src="./assets/heart3.png" alt="Recomendaciones" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"> 
 🏥 Información Clínica al Alcance
 CardioSafe utiliza machine learning para evaluar 11 parámetros de salud críticos, proporcionando una estratificación instantánea del riesgo de infarto con 89.5% de precisión. Diseñado para:
 

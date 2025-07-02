@@ -28,7 +28,7 @@ Siguientes Pasos: Recomendaciones claras según el nivel de riesgo
 🛠️ Implementación Técnica
 
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin: 20px 0;"> <img src="./assets/ITécnica.png" alt="Interfaz principal"
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; margin: 20px 0;"> <img src="./assets/ITécnica.png" alt="Implementacion Técnica">
 
 Stack Principal:
 
